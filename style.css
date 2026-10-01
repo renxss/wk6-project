@@ -11,14 +11,9 @@ img {
 }
 
 .contact-btn {
-  display: inline-block;
-  padding: 10px 20px;
-  background-color: blue;
-  color: white;
-  text-align: center;
-  border-radius: 5px;
-  text-decoration: none;
-  transition: background-color 0.3s;
+  display: block;
+  margin: 0 auto;
+  width: 200px;
 }
 
 .contact-btn:hover {
